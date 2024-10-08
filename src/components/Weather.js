@@ -39,7 +39,7 @@ const Weather = () => {
           className="city-input"
         />
         <button onClick={getWeather} className="get-data-button">
-          Get Data
+          Get Data info
         </button>
       </div>
       {weatherData && (
