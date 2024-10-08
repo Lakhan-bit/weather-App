@@ -24,7 +24,8 @@ const Weather = () => {
       setError(error.message);
       setWeatherData(null);
     }
-  };
+  };   
+  //jjdj
 
   return (
     <div className="weather-container">
